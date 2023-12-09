@@ -70,17 +70,43 @@ body * {
 }
 
 #tecnologias {
-  border: solid red;
-  height: 208px;
+  border-radius: 20px;
+  height: auto;
   width: 348px;
   margin: auto;
+  margin-top: 30px;
+  background-color: #302f3d;
 }
 
 #tecnologias h3 {
+  display: flex;
   font-size: 20px;
+  padding: 30px;
+  margin: 0;
+  padding-left: 20px;
+  padding-bottom: 20px;
 }
 
-#tecnologias span {
+#tecnologias ul {
+  list-style: none;
+  color: #000;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+#tecnologias ul li {
+  font-size: 10px;
+  align-items: center;
+  padding: 7px;
+}
+
+#tecnologias ul span {
+  display: inline-block;
   width: 86px;
   height: 24px;
+  border-radius: 30px;
+  background: #cb92b1;
+  margin: 5px;
 }
