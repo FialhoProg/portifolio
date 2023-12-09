@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #22212c;
+  color: #837e9f;
+  font-family: Merriweather Sans;
+  font-size: 23px;
+  font-style: normal;
+  line-height: normal;
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+#profile {
+  border-radius: 20px;
+  width: 348px;
+  height: 292px;
+  margin: auto;
+  background-color: #302f3d;
+}
+
+#profile img {
+  width: 128px;
+  margin: 32px 110px 30px;
+}
+
+#profile h3 {
+  margin: 0px;
+  display: block;
+}
+
+#profile p {
+  margin-top: 10px;
+  font-size: 13px;
+  display: block;
+  font-weight: 300px;
+}
+
+#links {
+  margin: auto;
+  margin-top: 10px;
+  background-color: #302f3d;
+  text-align: center;
+  align-items: center;
+  width: 348px;
+  height: 348px;
+  border-radius: 20px;
+}
+
+#links ul li img {
+  color: #837e9f;
+  margin: 5px;
+}
+#links ul {
+  font-weight: 400px;
+  font-size: 13px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#links li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  text-align: left;
+  padding: 10px;
+}
+
+#tecnologias {
+  border: solid red;
+  height: 208px;
+  width: 348px;
+  margin: auto;
+}
+
+#tecnologias h3 {
+  font-size: 20px;
+}
+
+#tecnologias span {
+  width: 86px;
+  height: 24px;
+}
