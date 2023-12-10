@@ -13,6 +13,8 @@ body * {
   font-family: "Merriweather Sans", sans-serif;
 }
 
+/*PROFILE*/
+
 #profile {
   border-radius: 20px;
   width: 348px;
@@ -37,6 +39,8 @@ body * {
   display: block;
   font-weight: 300px;
 }
+
+/*LINKS*/
 
 #links {
   margin: auto;
@@ -68,6 +72,8 @@ body * {
   text-align: left;
   padding: 10px;
 }
+
+/*TECNOLOGIAS*/
 
 #tecnologias {
   border-radius: 20px;
@@ -109,4 +115,91 @@ body * {
   border-radius: 30px;
   background: #cb92b1;
   margin: 5px;
+}
+
+/*EXPERIENCIAS*/
+#experiencias {
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 30px;
+  align-items: center;
+  width: 348px;
+  background-color: #302f3d;
+}
+
+#experiencias h3 {
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  margin: 0;
+}
+
+#experiencias dt {
+  font-size: 14px;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 2px;
+}
+#experiencias dl {
+  margin: auto;
+  margin-left: 40px;
+  display: block;
+  margin-right: 144px;
+  width: 190px;
+}
+#experiencias dd {
+  font-weight: 300;
+  padding-left: 15px;
+  margin: 0;
+  padding-bottom: 20px;
+  list-style: none;
+  font-size: 14px;
+  text-align: left;
+}
+
+/*EDUCAÇÃO*/
+#educacao {
+  background-color: #302f3d;
+  width: 348px;
+  margin: auto;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+#educacao h3 {
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  margin: 0;
+}
+
+#educacao dl {
+  margin: auto;
+  margin-left: 40px;
+  display: block;
+  margin-right: 144px;
+  width: 200px;
+}
+
+#educacao dd {
+  font-weight: 300;
+  padding-left: 15px;
+  margin: 0;
+  padding-bottom: 20px;
+  list-style: none;
+  font-size: 14px;
+  text-align: left;
+}
+
+#educacao dt {
+  font-size: 14px;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 2px;
 }
