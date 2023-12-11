@@ -17,7 +17,7 @@ body * {
 
 #profile {
   border-radius: 20px;
-  width: 348px;
+  width: 340px;
   height: 292px;
   margin: auto;
   background-color: #302f3d;
@@ -48,7 +48,7 @@ body * {
   background-color: #302f3d;
   text-align: center;
   align-items: center;
-  width: 348px;
+  width: 340px;
   height: 348px;
   border-radius: 20px;
 }
@@ -86,7 +86,7 @@ body * {
 #tecnologias {
   border-radius: 20px;
   height: auto;
-  width: 348px;
+  width: 340px;
   margin: auto;
   margin-top: 30px;
   background-color: #302f3d;
@@ -131,7 +131,7 @@ body * {
   margin: auto;
   margin-top: 30px;
   align-items: center;
-  width: 348px;
+  width: 340px;
   background-color: #302f3d;
 }
 
@@ -171,7 +171,7 @@ body * {
 /*EDUCAÇÃO*/
 #educacao {
   background-color: #302f3d;
-  width: 348px;
+  width: 340px;
   margin: auto;
   border-radius: 20px;
   margin-top: 30px;
